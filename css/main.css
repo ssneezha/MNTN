@@ -89,7 +89,7 @@ body {
   transform: translateY(-50%);
   width: 25px;
   height: 25px;
-  background-image: url("/images/icons/icon.svg");
+  background-image: url("../images/icons/icon.svg");
   background-repeat: no-repeat;
 }
 
@@ -167,7 +167,7 @@ body {
   transform: translateY(-50%);
   width: 25px;
   height: 34px;
-  background-image: url("/images/icons/arrow-down-w2.svg");
+  background-image: url("../images/icons/arrow-down-w2.svg");
   background-repeat: no-repeat;
 }
 .main {
@@ -273,7 +273,7 @@ body {
   transform: translateY(-50%);
   width: 24px;
   height: 16px;
-  background-image: url("/images/icons/arrow-r.svg");
+  background-image: url("../images/icons/arrow-r.svg");
   background-repeat: no-repeat;
 }
 
